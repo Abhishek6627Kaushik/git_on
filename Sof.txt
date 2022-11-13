@@ -1,0 +1,4 @@
+1. editPlus
+2. winrar
+3. jdk (Java Development Kit)
+

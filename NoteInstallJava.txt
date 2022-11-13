@@ -1,0 +1,23 @@
+
+
+
+
+
+specific path by cmd 
+set path=
+set path=D:\java-feb-2022\jdk\jdk-17.0.2\bin
+set path like this this path is only for once cmd run if you closed the cmd this path will be deleted .
+i closed cmd the path is deleted
+Like This
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+set java patch permanentaly 
+
+goto the bin folder control path come to this pc right click on  this pc  click on properties  type env after type env  select enviroment variable for your account
+select the path then click edit after click on edit click on new and paste the path location
+
+Now java path is permanet created 
+
+Now Enjoy Kro;
